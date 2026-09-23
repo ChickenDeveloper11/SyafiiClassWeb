@@ -26,163 +26,163 @@ const studentData = [
         id: 'student1',
         name: 'Aisyah Azzahra',
         details: 'Halo!',
-        image: 'assets/Aisyah.jpg'
+        image: 'assets/Aisyah.JPG'
     },
     {
         id: 'student2',
         name: 'Alicia Humaira Brilliant',
         details: 'Halo!',
-        image: 'assets/Alicia.jpg'
+        image: 'assets/Alicia.JPG'
     },
     {
         id: 'student3',
         name: 'Annisa Cahya Afifah',
         details: 'Halo!',
-        image: 'assets/Annisa.jpg'
+        image: 'assets/Annisa.JPG'
     },
     {
         id: 'student4',
         name: 'Aqella Faheema Putri',
         details: 'Halo!',
-        image: 'assets/Cila.jpg'
+        image: 'assets/Cila.JPG'
     },
     {
         id: 'student5',
         name: 'Jeumpa Bilqis',
         details: 'Halo!',
-        image: 'assets/Jeumpa.jpg'
+        image: 'assets/Jeumpa.JPG'
     },
     {
         id: 'student6',
         name: 'Cut Nyak Almira Malaeka',
         details: 'Halo!',
-        image: 'assets/Putroe.jpg'
+        image: 'assets/Putroe.JPG'
     },
     {
         id: 'student7',
         name: 'Farah Nailaah Putri',
         details: 'Halo!',
-        image: 'assets/Farah.jpg'
+        image: 'assets/Farah.JPG'
     },
     {
         id: 'student8',
         name: 'Indah Fatina',
         details: 'Halo!',
-        image: 'assets/Indah.jpg'
+        image: 'assets/Indah.JPG'
     },
     {
         id: 'student9',
         name: 'Khanza Aqila',
         details: 'Halo!',
-        image: 'assets/Khanza.jpg'
+        image: 'assets/Khanza.JPG'
     },
     {
         id: 'student10',
         name: 'Latifa Nabila Rizki',
         details: 'Halo!',
-        image: 'assets/Latifa.jpg'
+        image: 'assets/Latifa.JPG'
     },
     {
         id: 'student11',
         name: 'Niswa Ufaira',
         details: 'Halo!',
-        image: 'assets/Niswa.jpg'
+        image: 'assets/Niswa.JPG'
     },
     {
         id: 'student12',
         name: 'Reyhanna Sheza Risky',
         details: 'Halo!',
-        image: 'assets/Sheza.jpg'
+        image: 'assets/Sheza.JPG'
     },
     {
         id: 'student13',
         name: 'Salsabila Nadhifa',
         details: 'Halo!',
-        image: 'assets/Diva.jpg'
+        image: 'assets/Diva.JPG'
     },
     {
         id: 'student14',
         name: 'Queenza Azalea',
         details: 'Halo!',
-        image: 'assets/Queen.jpg'
+        image: 'assets/Queen.JPG'
     },
     {
         id: 'student27',
         name: 'Naira Shidqia',
         details: 'Halo!',
-        image: 'assets/Naira.jpg'
+        image: 'assets/Naira.JPG'
     },
     {
         id: 'student15',
         name: 'Bhasil Ardiansyah',
         details: 'Halo!',
-        image: 'assets/Bhasil.jpg'
+        image: 'assets/Bhasil.JPG'
     },
     {
         id: 'student16',
         name: 'M. Hafiz Haikal',
         details: 'Halo!',
-        image: 'assets/Hafiz.jpg'
+        image: 'assets/Hafiz.JPG'
     },
     {
         id: 'student17',
         name: 'M. Fathan Asfa Kaisan',
         details: 'Halo!',
-        image: 'assets/Fatan.jpg'
+        image: 'assets/Fatan.JPG'
     },
     {
         id: 'student18',
         name: 'M. Faris Firdaus',
         details: 'Halo!',
-        image: 'assets/Faris.jpg'
+        image: 'assets/Faris.JPG'
     },
     {
         id: 'student19',
         name: 'M. Fathir Syah',
         details: 'Halo!',
-        image: 'assets/Fathir.jpg'
+        image: 'assets/Fathir.JPG'
     },
     {
         id: 'student20',
         name: 'Owais Almir',
         details: 'Halo!',
-        image: 'assets/Owais.jpg'
+        image: 'assets/Owais.JPG'
     },
     {
         id: 'student21',
         name: 'Maulana',
         details: 'Halo!',
-        image: 'assets/Mol.jpg'
+        image: 'assets/Mol.JPG'
     },
     {
         id: 'student22',
         name: 'Saif Agil Munawar',
         details: 'Halo!',
-        image: 'assets/Saif.jpg'
+        image: 'assets/Saif.JPG'
     },
     {
         id: 'student23',
         name: 'Teuku Fabian Ferdiansyah',
         details: 'Halo!',
-        image: 'assets/Fabian.jpg'
+        image: 'assets/Fabian.JPG'
     },
     {
         id: 'student24',
         name: 'Rafiqul Islam',
         details: 'Halo!',
-        image: 'assets/Rafi.jpg'
+        image: 'assets/Rafi.JPG'
     },
     {
         id: 'student25',
         name: 'Raisul Qahhar',
         details: 'Halo!',
-        image: 'assets/Rais.jpg'
+        image: 'assets/Rais.JPG'
     },
     {
         id: 'student26',
         name: 'Teuku Parsa Rayeuk',
         details: 'Halo!',
-        image: 'assets/Parsa.jpg'
+        image: 'assets/Parsa.JPG'
     },
 ];
 
